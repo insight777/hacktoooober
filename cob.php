@@ -1,3 +1,5 @@
+//belajar oop php brooo
+
 <?php
 	
 class Coba {
